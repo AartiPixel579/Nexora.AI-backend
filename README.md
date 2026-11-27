@@ -17,3 +17,7 @@ Backend for a multi-tenant AI chatbot SaaS platform.
 - Branch names: `feat/<TaskID>-short-name` (example: `feat/B10-login-roles`)
 - Commit messages: `feat:`, `fix:`, `chore:`, `test:`, `docs:`
 - One GitHub issue per task. Never commit secrets or `.env` files.
+
+
+## Project board
+All tasks are tracked as GitHub issues (one per task ID) on the **Nexora.AI Backend** board in the repo's **Projects** tab.
