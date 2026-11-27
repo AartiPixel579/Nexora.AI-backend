@@ -1,0 +1,25 @@
+.env
+.env.*
+!.env.example
+
+# Python junk files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Test and tool caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# Django local files
+*.log
+media/
+staticfiles/
+db.sqlite3
+
+# Editor and Windows files
+.vscode/
+.idea/
+Thumbs.db
